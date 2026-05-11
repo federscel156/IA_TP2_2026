@@ -1,8 +1,8 @@
 # IA_TP2_2026
 TP2 Inteligencia artificial siglo 21 2026
-ejecutar 
-fede@MacBook-Pro-de-fede TP2 % javac codigo/BusquedaExhaustiva.java
-fede@MacBook-Pro-de-fede TP2 % java -cp codigo BusquedaExhaustiva
+# Ejecutar 
+# javac codigo/BusquedaExhaustiva.java
+# java -cp codigo BusquedaExhaustiva
 === Búsqueda exhaustiva ===
 Estado inicial: (H=0, θ=10°)
 Meta: (H=4, θ=0°)
@@ -15,8 +15,8 @@ Camino encontrado con 6 movimientos:
  4. Avanzar +1 -> (H=4, θ=10°)
  5. Rotar -5° -> (H=4, θ=5°)
  6. Rotar -5° -> (H=4, θ=0°)
-fede@MacBook-Pro-de-fede TP2 % javac codigo/BusquedaHeuristica.java
-fede@MacBook-Pro-de-fede TP2 % java -cp codigo BusquedaHeuristica
+# javac codigo/BusquedaHeuristica.java
+# java -cp codigo BusquedaHeuristica
 === Búsqueda heurística ===
 Estado inicial: (H=0, θ=10°)
 Meta: (H=4, θ=0°)
